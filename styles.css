@@ -1,0 +1,37 @@
+/* SELECTOR DE ETIQUETA */
+img {
+  width: 200px;
+  height: auto;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  width: 100vw;
+  height: 25vh;
+  background-color: lightyellow;
+  position: relative;
+}
+
+h1 {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  display: inline;
+}
+
+h2 {
+  position: absolute;
+  top: 0%;
+  left: 50%;
+}
+
+p {
+  position: absolute;
+  top: 50%;
+
+  text-align: center;
+}
